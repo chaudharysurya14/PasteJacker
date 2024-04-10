@@ -52,10 +52,10 @@ PasteJacker gives you the option to do one of this things:
 
 # Screenshots (Not updated)
 
-<img src="https://github.com/chaudharysurya14/PasteJacker/tree/master/PasteJacker/Screenshots/p0.png" width="100%"></img>
-<img src="https://github.com/chaudharysurya14/PasteJacker/tree/master/PasteJacker/Screenshots/p1.png" width="100%"></img>
-<img src="https://github.com/chaudharysurya14/PasteJacker/tree/master/PasteJacker/Screenshots/p2.png" width="100%"></img>
-<img src="https://github.com/chaudharysurya14/PasteJacker/tree/master/PasteJacker/Screenshots/p3.png" width="100%"></img>
+<img src="https://github.com/chaudharysurya14/PasteJacker/blob/master/PasteJacker/Screenshots/p0.png" width="100%"></img>
+<img src="https://github.com/chaudharysurya14/PasteJacker/blob/master/PasteJacker/Screenshots/p1.png" width="100%"></img>
+<img src="https://github.com/chaudharysurya14/PasteJacker/blob/master/PasteJacker/Screenshots/p2.png" width="100%"></img>
+<img src="https://github.com/chaudharysurya14/PasteJacker/blob/master/PasteJacker/Screenshots/p3.png" width="100%"></img>
 
 ## Installing and requirements
 - Python 3 and setuptools module.
